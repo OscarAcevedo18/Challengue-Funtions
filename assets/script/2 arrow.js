@@ -1,4 +1,4 @@
-suma = function(a, b){
+let suma = function(a, b){
     return a + b
     }
     // arrow function de una línea
